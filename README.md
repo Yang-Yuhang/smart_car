@@ -6,7 +6,7 @@ The car model is built with a odometry,a hokuyo LiDAR and a camera, and the car 
 
 The python scripy can be used to control the movement of the car.
 
-![image] (https://github.com/Yang-Yuhang/smart_car/blob/main/smartcar_description/car.png)
+ ![car](https://github.com/Yang-Yuhang/smart_car/blob/main/smartcar_description/car.png)
 
 ## smartcar_navigation
 There are two functions in this package.
