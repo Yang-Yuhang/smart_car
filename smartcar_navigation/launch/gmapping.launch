@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+  <include file="$(find smartcar_navigation)/launch/include/smartcar_gmapping.launch.xml"/>
+
+  <!-- Move base -->
+  <include file="$(find smartcar_navigation)/launch/include/move_base.launch.xml"/>
+ 
+</launch>
