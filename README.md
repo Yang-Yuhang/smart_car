@@ -2,7 +2,7 @@
 Bachelor course (Intelligent Engineer) project
 
 ## smartcar_description
-The car model is built with a odometry,a hokuyo LiDAR and a camera, and the car is in a simply indoor environment. There are two powered wheels driven by differential motors with imcremental PID algorithm.
+The car model is built with a odometry,a hokuyo LiDAR and a camera, and the car is in a simply indoor environment. There are two powered wheels(green) driven by differential motors with imcremental PID algorithm.
 
 The python scripy can be used to control the movement of the car.
 
